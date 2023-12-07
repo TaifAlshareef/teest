@@ -1,4 +1,4 @@
 # teest
 
-##Discription:
-" this is an exrcise to apply som shanges to Do-it project."
+**##Discription:**
+*"this is an exrcise to apply som shanges to Do-it projectitalic."*
